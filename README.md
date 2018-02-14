@@ -1,4 +1,4 @@
-# Pol-grafo
+# Poligrafo
 Este proyecto sera desarrollado con un microc-procesador del tipo DEMOQE128
 
 Estetoscopio
